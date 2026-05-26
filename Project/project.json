@@ -1,0 +1,23 @@
+{
+  "project_name": "O3DEArenaPrototype",
+  "project_id": "{11111111-2222-4333-8444-555555555555}",
+  "origin": "The primary repo for O3DE Arena Prototype.",
+  "display_name": "O3DE Arena Prototype",
+  "summary": "A compact arena collection game prototype for O3DE portfolio review.",
+  "canonical_tags": [
+    "O3DE",
+    "Game",
+    "Prototype",
+    "Portfolio"
+  ],
+  "user_tags": [
+    "arena",
+    "lua",
+    "c++"
+  ],
+  "engine": "o3de",
+  "external_subdirectories": [
+    "../Gem"
+  ]
+}
+
